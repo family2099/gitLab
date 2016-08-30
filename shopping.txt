@@ -1,9 +1,7 @@
 # Shpping List
 
 - milk
-<<<<<<< HEAD
-=======
 - 10 eggs
->>>>>>> de
+
 
 
