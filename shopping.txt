@@ -1,13 +1,5 @@
 # Shpping List
 
 - milk
-<<<<<<< HEAD
-- eggs
-=======
-- 10 eggs
-- pork
-- barbecue grill
-- wood coal
-- mushroom
->>>>>>> de
+
 
