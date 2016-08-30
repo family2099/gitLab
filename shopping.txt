@@ -2,8 +2,5 @@
 
 - milk
 - 10 eggs
-- pork
-- barbecue grill
-- wood coal
-- mushroom
+
 
