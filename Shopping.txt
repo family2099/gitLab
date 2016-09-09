@@ -1,5 +1,0 @@
-# Shpping List
-
-- milk
-- 10 eggs
-- pork
